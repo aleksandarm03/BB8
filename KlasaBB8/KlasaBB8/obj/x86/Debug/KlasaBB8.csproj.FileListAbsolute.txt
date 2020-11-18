@@ -1,0 +1,8 @@
+C:\Users\aleks\AppData\Local\Temporary Projects\KlasaBB8\obj\x86\Debug\KlasaBB8.csprojResolveAssemblyReference.cache
+C:\Users\aleks\AppData\Local\Temporary Projects\KlasaBB8\obj\x86\Debug\KlasaBB8.Form1.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\KlasaBB8\obj\x86\Debug\KlasaBB8.Properties.Resources.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\KlasaBB8\obj\x86\Debug\KlasaBB8.csproj.GenerateResource.Cache
+C:\Users\aleks\AppData\Local\Temporary Projects\KlasaBB8\bin\Debug\KlasaBB8.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\KlasaBB8\bin\Debug\KlasaBB8.pdb
+C:\Users\aleks\AppData\Local\Temporary Projects\KlasaBB8\obj\x86\Debug\KlasaBB8.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\KlasaBB8\obj\x86\Debug\KlasaBB8.pdb
